@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /_errorpages
+Disallow: /css
+Disallow: /js
+Disallow: /media
+Disallow: /source
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+Sitemap: http://squareblank.com/sitemap.xml
